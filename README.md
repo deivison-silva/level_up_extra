@@ -1,6 +1,10 @@
-# #LevelUP4
+# #LevelUP - Extra
 
 Pequeno desafio proposto na aula de API's, tendo como objetivo fazer a requisição de posts em uma api fake a partir do método GET.
+
+API utilizada: https://jsonplaceholder.typicode.com/
+
+Endpoint: /posts
 
 ## Features
 
