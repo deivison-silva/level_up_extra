@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:api/shared/models/post_model.dart';
+import '/src/shared/models/post_model.dart';
 import 'home_controller.dart';
 
 class HomePage extends StatefulWidget {

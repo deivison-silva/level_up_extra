@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:api/shared/models/post_model.dart';
+import '/src/shared/models/post_model.dart';
 import 'package:http/http.dart' as http;
 
 class HomeController {
